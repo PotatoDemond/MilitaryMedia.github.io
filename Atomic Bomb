@@ -1,0 +1,32 @@
+ <link rel="icon" type="image/png" href="https://static-00.iconduck.com/assets.00/tank-icon-2048x2048-n1ajz0u5.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Military Media | Atomic Bomb</title>
+        <style>
+            html{
+            height: 100%
+            }
+            body{
+            height: 100%; margin: 0px;
+            }
+            #loader {
+                width: 100%;
+                height: 100%;
+                background-color: white;
+                margin: 0;
+            }
+    </style>
+    </head>
+    <body style="text-align: center;">
+        <header>
+<h1>Atomic Bomb<a id="back" href="index.html"><button id="back1">Back</button></a></h1>
+        </header>
+       <img src="https://th.bing.com/th/id/OIP.YLdnU2oHTQGZHBGpHJS8OwHaE1?w=262&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" width="500" height="300" style="float: left"><h2>"The Fat Man"</h2>
+      <p>Atomic Bombs are pretty cool. Atomic bombs, a.k.a. "The Fat Man" (named that because of its round shape) can effect people in a 13 mile radius. They were first made in the U.S. was in 1945 and the first time the U.S. dropped a Fat Man was the same year on the Japanese city Hiroshima.</p>
+<h3>How it Works</h3><img src="https://th.bing.com/th/id/OIP.goC5f-sGYkkEA18Ju4MITwHaEK?w=313&h=180&c=7&r=0&o=5&dpr=2&pid=1.7">
+      <p>The science is very complicated, im not going through that torture of trying to understand it however, I will explain the basic details on how it works. In the Fat Man design, there is some explosives set around a chunk of plutonium. So when detenated, the explosives explode making the plutonium reach its critical mass, and then it explodes.</p>
+
+        <footer>
+            <h3>Anthony, Matthew, and Nick</h3>
+        </footer>
+    </body>
+</html>
